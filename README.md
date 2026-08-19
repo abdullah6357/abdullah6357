@@ -143,7 +143,7 @@ const Abdullah Aamir = {
   <img src="https://github-profile-trophy.vercel.app/?username=abdullah6357&theme=nord&no-frame=true&no-bg=true&column=7&row=1" alt="GitHub Trophies" />
 </div>
 -->
----
+
 
 ## 📈 Contribution Graph
 
