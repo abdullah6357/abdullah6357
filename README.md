@@ -129,12 +129,12 @@ const Abdullah Aamir = {
 
 ---
 
-## 🔥 Contribution Streak
+<!--## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abdullah6357&theme=nord&border=7dd3fc&background=1e1e2e&dates=cdd6f4" alt="GitHub Streak" />
 </div>
-
+-->
 
 
 <!--## 🏆 GitHub Trophies
