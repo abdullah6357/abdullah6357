@@ -144,13 +144,13 @@ const Abdullah Aamir = {
 </div>
 -->
 
-
+<!--#
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah6357&theme=nord&bg_color=1e1e2e&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
+-->
 
 ## 🤝 Connect With Me
 
